@@ -15,7 +15,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <tags>hmf-ship-bookmarks hmf ship bookmarks chrome edge</tags>
     <summary>Ih tizz whuddit tizz</summary>
     <description>Descorption: boomkarks for teh hmf shrip derportment</description>
-    <releaseNotes>Option copy and delete of bookmarks on install and uninstall</releaseNotes>
+    <releaseNotes>Package now only copies from blob to \programdata\chocotemp</releaseNotes>
     <dependencies>
       <dependency id="GoogleChrome" />
     </dependencies>
