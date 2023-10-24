@@ -9,13 +9,13 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>hmf-ship-bookmarks</id>
-    <version>1.0.3</version>
+    <version>1.1.0</version>
     <title>hmf-ship-bookmarks</title>
     <authors>Brendan Moran</authors>
     <tags>hmf-ship-bookmarks hmf ship bookmarks chrome edge</tags>
     <summary>Ih tizz whuddit tizz</summary>
     <description>Descorption: boomkarks for teh hmf shrip derportment</description>
-    <releaseNotes>Only downloading bookmarks file to C:\ProgramData\ChocoTemp, no more copy operation</releaseNotes>
+    <releaseNotes>Option copy and delete of bookmarks on install and uninstall</releaseNotes>
     <dependencies>
       <dependency id="GoogleChrome" />
     </dependencies>
