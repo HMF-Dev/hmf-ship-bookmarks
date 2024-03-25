@@ -8,14 +8,18 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
 -->
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>hmf-ship-bookmarks</id>
-    <version>1.1.0</version>
-    <title>hmf-ship-bookmarks</title>
+    <id>hmf-bookmarks-ship</id>
+    <version>2.0.1</version>
+    <title>hmf-bookmarks-ship</title>
     <authors>Brendan Moran</authors>
-    <tags>hmf-ship-bookmarks hmf ship bookmarks chrome edge</tags>
-    <summary>Ih tizz whuddit tizz</summary>
-    <description>Descorption: boomkarks for teh hmf shrip derportment</description>
-    <releaseNotes>Package now only copies from blob to \programdata\chocotemp</releaseNotes>
+    <tags>hmf ship shipping logistics supply chain bookmarks chrome edge</tags>
+    <summary>Bookmarks for shipping and logistics users</summary>
+    <description>Bookarks for shipping and logistics users</description>
+    <releaseNotes>
+      - New for 2024: INFOR EQ, Senneca SSRS Reports, new name
+      - Fixed broken links
+      - Fixed name of bookmarks.html in temp folder
+    </releaseNotes>
     <dependencies>
       <dependency id="GoogleChrome" />
     </dependencies>
